@@ -1,0 +1,16 @@
+{
+  "name": "angular2-poc",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.47",
+    "events": "^1.0.2",
+    "ng2-bootstrap": "^0.46.0"
+  },
+  "devDependencies": {
+    "live-server": "^0.8.2",
+    "systemjs": "0.19.6"
+  },
+  "scripts": {
+    "tsc": "tsc -p src -w",
+    "start": "live-server"
+  }
+}

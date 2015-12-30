@@ -1,0 +1,16 @@
+{
+  "name": "rdash-angular2-a47",
+  "version": "0.1.1",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "font-awesome": "~4.5.0"
+  }
+}

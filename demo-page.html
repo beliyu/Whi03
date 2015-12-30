@@ -1,0 +1,25 @@
+<div class="container">
+
+    <div class="jumbotron">
+        <h3>Angular 2.0 sample components</h3>
+        <p>
+            More documentation about each specific component can be found
+            <a href="http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples">here</a>.
+        </p>
+        <p>Current version: Angular 2.0 alpha 47</p>
+    </div>
+
+    <div>
+        <div class="list-group col-md-3">
+            <a [class.active]="getLinkStyle('/demo/input')" [router-link]="['/Demo/Input']" class="list-group-item">
+                Input Controls</a>
+            <a [class.active]="getLinkStyle('/demo/textbox')" [router-link]="['/Demo/Textbox']" class="list-group-item">
+                Bound Textbox</a>
+       </div>
+
+        <div class="col-md-9">
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+
+</div>
