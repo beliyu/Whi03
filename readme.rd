@@ -3,7 +3,7 @@
 
 rdash-angular-ts is an Angular 2.0 alfa-47 with typescript implementation of the RDash admin dashboard.
 
-Innovating 1 year old project by Startangular.com! Add new module versions, typescript with typings, prefixes migration for ng2-bootstrap  ...
+Innovating 1 year old project by Startangular.com! Add new module versions, typescript with typings, ng2-bootstrap  ...
 
 In later Angular versions there were so many changes. This repo can not be used as a reference! It is preserved in the memory of those days.
 
